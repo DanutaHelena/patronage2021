@@ -1,0 +1,12 @@
+insert into parking(id, number, storey, type, status) values (1, 1, 0, 'Disabled', true);
+insert into parking(id, number, storey, type, status) values (2, 2, 0, 'Standard', true);
+insert into parking(id, number, storey, type, status) values (3, 3, 0, 'Standard', false);
+insert into parking(id, number, storey, type, status) values (4, 1, 1, 'Disabled', true);
+insert into parking(id, number, storey, type, status) values (5, 2, 1, 'Standard', false);
+insert into parking(id, number, storey, type, status) values (6, 3, 1, 'Standard', false);
+insert into parking(id, number, storey, type, status) values (7, 1, 2, 'Disabled', false);
+insert into parking(id, number, storey, type, status) values (8, 2, 2, 'Standard', false);
+insert into parking(id, number, storey, type, status) values (9, 3, 2, 'Standard', false);
+insert into parking(id, number, storey, type, status) values (10, 1, 3, 'Disabled', false);
+insert into parking(id, number, storey, type, status) values (11, 2, 3, 'Standard', false);
+insert into parking(id, number, storey, type, status) values (12, 3, 3, 'Standard', false);
